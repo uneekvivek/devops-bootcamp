@@ -1,0 +1,19 @@
+{
+  "name": "devops-bootcamp",
+  "version": "1.0.0",
+  "description": "This is my test repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uneekvivek/devops-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uneekvivek/devops-bootcamp/issues"
+  },
+  "homepage": "https://github.com/uneekvivek/devops-bootcamp#readme"
+}
